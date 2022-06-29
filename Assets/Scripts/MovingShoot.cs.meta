@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24e07177146d6dd4b9804836f285c2d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - effects: {fileID: 5590470927049677150, guid: d4680978d1c92b94b89afeea26fa426b, type: 3}
+  - experience: {instanceID: 0}
+  - projectile: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

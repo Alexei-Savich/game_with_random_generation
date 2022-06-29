@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstage
+  - Enemy
+  - StaticEnemy
+  - Projectile
+  - PlayerIsDestroyed
+  - PlusHp
+  - PlusHeart
+  - PlusHealth
+  - Patrol
+  - Explosion
+  - FriendlyProjectile
+  - AttackCollider
+  - Experience
+  - BigExp
+  - GoDung
+  - BackDung
+  - HouseEnter
+  - HouseExit
+  - SpeedBoost
+  - IncreaseBoost
+  - DecreaseBoost
+  - COD
+  - Bush
+  - Shield
+  - Ammo
+  - WeaponSurv
+  - CastleTower
+  - BossDung
+  - BossEnter
+  - Boss
+  - BossHP
+  - BossSpawn
+  - ExpDestr
+  - BossExp
+  - Music
+  - Sounds
+  - ShieldBoost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 8
+  - 9
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgrounds
+    uniqueID: 233113029
+    locked: 0
+  - name: MiniBackgrounds
+    uniqueID: 1475002453
+    locked: 0
+  - name: MainLayer
+    uniqueID: 1781535135
+    locked: 0
+  - name: Players
+    uniqueID: 1882222835
+    locked: 0
+  - name: Bush
+    uniqueID: 955250719
+    locked: 0

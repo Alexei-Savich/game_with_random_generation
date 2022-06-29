@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 98208554d1183e945972466118bf7b78
+  - enabled: 1
+    path: Assets/Scenes/Survival.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HowTo.unity
+    guid: e291dbe4e47999049a5b3226710147ee
+  - enabled: 1
+    path: Assets/Scenes/ModeChoose.unity
+    guid: 5fcc98b8f1d1e5c41b7f5e37e773e35f
+  - enabled: 1
+    path: Assets/Scenes/CharChoose.unity
+    guid: b24e7a1b1a8ebc044a6400b3d6987296
+  - enabled: 1
+    path: Assets/Scenes/Normal/ArNormal.unity
+    guid: 676d7c43b3889594b88b4a9ca493ff26
+  - enabled: 1
+    path: Assets/Scenes/Normal/TNTNormal.unity
+    guid: ff4116852fa20a44bb3712c3a0c90ed0
+  - enabled: 1
+    path: Assets/Scenes/Normal/MeleeNormal.unity
+    guid: ea570e41b8742af49b5c6f60f20300b2
+  - enabled: 1
+    path: Assets/Scenes/CharChooseBoss.unity
+    guid: 3bb7a91af3ff59e41933970aaae37404
+  - enabled: 1
+    path: Assets/Scenes/Boss/ArBoss.unity
+    guid: 11f3534c6d8896447acd97dd6851f11b
+  - enabled: 1
+    path: Assets/Scenes/Boss/MeleeBoss.unity
+    guid: 1b24754946ab30948899a20f7f8bc027
+  - enabled: 1
+    path: Assets/Scenes/Boss/TNTBoss.unity
+    guid: 681883c2252336f478b9689a61a5094c
+  - enabled: 1
+    path: Assets/Scenes/Normal/RocketNormal.unity
+    guid: a9ccd28deabd0a14587682221a621860
+  - enabled: 1
+    path: Assets/Scenes/Boss/RocketBoss.unity
+    guid: adbc942b41c3f7242b55d642192f4658
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 28e221498eed5f24fbc661a00edec8c1
+  - enabled: 1
+    path: Assets/Scenes/TutChoose.unity
+    guid: 6985cfe1507a369418f00e9e035446e8
+  - enabled: 0
+    path: Assets/Scenes/Tutorial/Arch.unity
+    guid: 877b10785fba7c449b5aa7cc8e3ff63b
+  - enabled: 0
+    path: Assets/Scenes/Tutorial/Bomber.unity
+    guid: 11905eb114405084899b8ae58baa8419
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/BossTut.unity
+    guid: 2879cc0b3b971464d94d39169243edfe
+  - enabled: 0
+    path: Assets/Scenes/Tutorial/Mel.unity
+    guid: 841cc5e29863b9f4c97f82b7632e5eea
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/Surv.unity
+    guid: 6de8221e1c238914894b9d3becd07955
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/NormalTut.unity
+    guid: 32e7da7ae0360174eaa05a9647dba182
+  m_configObjects: {}
